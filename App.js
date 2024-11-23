@@ -10,7 +10,7 @@ app.use(express.json());
 //===============================================================>>>
 
 app.get('/hello', (req, res) => {
-  res.send('Hello');
+  res.send('Hello how are you');
 });
 
 
